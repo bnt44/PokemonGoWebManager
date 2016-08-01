@@ -24,5 +24,17 @@
   "bugs": {
     "url": "https://github.com/bnt44/PokemonGoWebManager/issues"
   },
-  "homepage": "https://github.com/bnt44/PokemonGoWebManager#readme"
+  "homepage": "https://github.com/bnt44/PokemonGoWebManager#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "express-sessions": "^1.0.5",
+    "jade": "^1.11.0",
+    "morgan": "^1.7.0",
+    "request": "^2.74.0",
+    "serve-favicon": "^2.3.0",
+    "socket.io": "^1.4.8"
+  }
 }
