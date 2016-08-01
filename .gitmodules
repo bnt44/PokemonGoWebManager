@@ -1,6 +1,3 @@
-[submodule "Pokemon-GO-node-api"]
-	path = api
-	url = https://github.com/Armax/Pokemon-GO-node-api.git
 [submodule "api"]
 	path = api
 	url = https://github.com/Armax/Pokemon-GO-node-api.git
